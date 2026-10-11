@@ -1,0 +1,13 @@
+[
+  {
+    "id": "act-1791696451929-57m2",
+    "userId": "user-admin",
+    "userName": "Quản trị viên Hệ thống",
+    "userRole": "admin",
+    "userEmail": "admin@heritageai.vn",
+    "actionType": "auth",
+    "title": "Đăng nhập Quản trị viên",
+    "description": "Quản trị viên đã đăng nhập thành công vào Hệ thống Hồn Đất Việt",
+    "timestamp": "2026-10-11T05:27:31.930Z"
+  }
+]

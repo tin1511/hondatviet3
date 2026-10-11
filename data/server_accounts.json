@@ -1,0 +1,29 @@
+[
+  {
+    "id": "user-admin",
+    "displayName": "Quản trị viên Hệ thống",
+    "email": "admin@heritageai.vn",
+    "password": "AINHS2026",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+    "city": "Hà Nội / Huế",
+    "role": "admin",
+    "roleLabel": "Quản trị viên & Kiểm định Di sản",
+    "interests": [
+      "Quản lý di sản",
+      "Kiểm duyệt tri thức",
+      "Bảo tồn văn hóa"
+    ],
+    "favoritesCount": 0,
+    "contributionsCount": 0,
+    "quizzesCompleted": 0,
+    "storiesCreated": 0,
+    "recognitionsCount": 0,
+    "itinerariesCount": 0,
+    "points": 2026,
+    "level": "Quản Trị Viên Hệ Thống",
+    "badges": [],
+    "createdAt": "2026-01-01T00:00:00Z",
+    "lastLoginAt": "2026-10-11T05:27:32.323Z",
+    "isLoggedIn": true
+  }
+]
